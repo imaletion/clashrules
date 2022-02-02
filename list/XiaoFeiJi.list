@@ -1,6 +1,8 @@
 # DlerCloud
 # Immtel
+# 轻小说
 DOMAIN-SUFFIX,dlercloud.com
 DOMAIN-KEYWORD,DlerCloud
 DOMAIN-SUFFIX,immtel.com
+DOMAIN-SUFFIX,lightnovel.app
 DOMAIN-KEYWORD,immtel
