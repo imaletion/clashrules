@@ -1,4 +1,42 @@
-#EHGallery
+# EHGallery
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehwiki.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,hentaiverse.org
+DOMAIN-SUFFIX,hath.network
 # soushuba
+DOMAIN-SUFFIX,soushu555.xyz
+DOMAIN-SUFFIX,soushu2021.com
+DOMAIN-SUFFIX,sou.josephbielloco.com
+DOMAIN-SUFFIX,zongheng.zitanxuan.com
+DOMAIN-SUFFIX,hao123.anwangrukou.com
+DOMAIN-SUFFIX,speed.kuaisuruji.com
+DOMAIN-KEYWORD,soushu
+DOMAIN-SUFFIX，us.cool.magichostbook.com
 # maomi
+# t2u.cc pics
+# nhentai
+DOMAIN-SUFFIX,t2u.cc
+DOMAIN-SUFFIX,tzhanurl.byethost33.com
+DOMAIN-SUFFIX,t2u.la
+DOMAIN-SUFFIX,t2ux.com
+DOMAIN-SUFFIX,t2ux.net
+DOMAIN-SUFFIX,tt2u.net
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,maomiav.com
+DOMAIN-SUFFIX,m63cr.com
+DOMAIN-SUFFIX,620e6430573e.com
+DOMAIN-SUFFIX,83fw3.com
+DOMAIN-SUFFIX,nhentai.net
+DOMAIN-KEYWORD,t2u
+DOMAIN-KEYWORD,nhentai
 # 南+
+DOMAIN-SUFFIX,soul-plus.net
+DOMAIN-SUFFIX,north-plus.net
+DOMAIN-SUFFIX,south-plus.net
+DOMAIN-SUFFIX,white-plus.net
+DOMAIN-SUFFIX,level-plus.net
+DOMAIN-SUFFIX,summer-plus.net
+DOMAIN-SUFFIX,spring-plus.net
+DOMAIN-SUFFIX,snow-plus.net
